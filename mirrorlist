@@ -1,6 +1,6 @@
 #
 # Arch Linux repository mirrorlist
-# Generated on 2021-06-27
+# Generated on 2021-07-17
 #
 
 # United States
@@ -10,8 +10,6 @@ Server = http://mirrors.aggregate.org/archlinux/$repo/os/$arch
 Server = https://america.mirror.pkgbuild.com/$repo/os/$arch
 Server = http://ca.us.mirror.archlinux-br.org/$repo/os/$arch
 Server = http://il.us.mirror.archlinux-br.org/$repo/os/$arch
-Server = http://archlinux.surlyjake.com/archlinux/$repo/os/$arch
-Server = https://archlinux.surlyjake.com/archlinux/$repo/os/$arch
 Server = http://mirror.arizona.edu/archlinux/$repo/os/$arch
 Server = https://mirror.arizona.edu/archlinux/$repo/os/$arch
 Server = http://arlm.tyzoid.com/$repo/os/$arch
