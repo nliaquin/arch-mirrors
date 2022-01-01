@@ -1,6 +1,6 @@
 #
 # Arch Linux repository mirrorlist
-# Generated on 2021-12-07
+# Generated on 2022-01-01
 #
 
 # Worldwide
@@ -85,6 +85,7 @@ Server = https://mirror.sergal.org/archlinux/$repo/os/$arch
 
 # Chile
 Server = http://mirror.anquan.cl/archlinux/$repo/os/$arch
+Server = https://mirror.anquan.cl/archlinux/$repo/os/$arch
 Server = http://mirror.archlinux.cl/$repo/os/$arch
 Server = http://mirror1.cl.netactuate.com/archlinux/$repo/os/$arch
 Server = https://mirror1.cl.netactuate.com/archlinux/$repo/os/$arch
@@ -93,6 +94,8 @@ Server = https://mirror.ufro.cl/archlinux/$repo/os/$arch
 
 # China
 Server = http://mirrors.163.com/archlinux/$repo/os/$arch
+Server = http://mirrors.aliyun.com/archlinux/$repo/os/$arch
+Server = https://mirrors.aliyun.com/archlinux/$repo/os/$arch
 Server = http://mirrors.bfsu.edu.cn/archlinux/$repo/os/$arch
 Server = https://mirrors.bfsu.edu.cn/archlinux/$repo/os/$arch
 Server = http://mirrors.cqu.edu.cn/archlinux/$repo/os/$arch
@@ -142,6 +145,7 @@ Server = http://mirrors.dotsrc.org/archlinux/$repo/os/$arch
 Server = https://mirrors.dotsrc.org/archlinux/$repo/os/$arch
 Server = http://mirror.one.com/archlinux/$repo/os/$arch
 Server = https://mirror.one.com/archlinux/$repo/os/$arch
+Server = https://mirror.safe-con.dk/archlinux/$repo/os/$arch
 
 # Ecuador
 Server = http://mirror.cedia.org.ec/archlinux/$repo/os/$arch
@@ -245,6 +249,8 @@ Server = http://mirror.kumi.systems/archlinux/$repo/os/$arch
 Server = https://mirror.kumi.systems/archlinux/$repo/os/$arch
 Server = http://mirror.fra10.de.leaseweb.net/archlinux/$repo/os/$arch
 Server = https://mirror.fra10.de.leaseweb.net/archlinux/$repo/os/$arch
+Server = http://mirror.luzea.de/archlinux/$repo/os/$arch
+Server = https://mirror.luzea.de/archlinux/$repo/os/$arch
 Server = http://mirror.metalgamer.eu/archlinux/$repo/os/$arch
 Server = https://mirror.metalgamer.eu/archlinux/$repo/os/$arch
 Server = http://mirror.mikrogravitation.org/archlinux/$repo/os/$arch
@@ -498,8 +504,6 @@ Server = http://mirror.juniorjpdj.pl/archlinux/$repo/os/$arch
 Server = https://mirror.juniorjpdj.pl/archlinux/$repo/os/$arch
 Server = http://arch.midov.pl/arch/$repo/os/$arch
 Server = https://arch.midov.pl/arch/$repo/os/$arch
-Server = http://arch.nixlab.pl/$repo/os/$arch
-Server = https://arch.nixlab.pl/$repo/os/$arch
 Server = http://mirror.onet.pl/pub/mirrors/archlinux/$repo/os/$arch
 Server = http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/$repo/os/$arch
 Server = http://ftp.psnc.pl/linux/archlinux/$repo/os/$arch
@@ -569,6 +573,8 @@ Server = https://mirror.guillaumea.fr/archlinux/$repo/os/$arch
 Server = http://mirror.jingk.ai/archlinux/$repo/os/$arch
 Server = https://mirror.jingk.ai/archlinux/$repo/os/$arch
 Server = http://ossmirror.mycloud.services/os/linux/archlinux/$repo/os/$arch
+Server = http://mirror.sg.gs/archlinux/$repo/os/$arch
+Server = https://mirror.sg.gs/archlinux/$repo/os/$arch
 
 # Slovakia
 Server = http://mirror.lnx.sk/pub/linux/archlinux/$repo/os/$arch
@@ -592,6 +598,8 @@ Server = https://mirrors.urbanwave.co.za/archlinux/$repo/os/$arch
 # South Korea
 Server = http://mirror.anigil.com/archlinux/$repo/os/$arch
 Server = https://mirror.anigil.com/archlinux/$repo/os/$arch
+Server = http://mirror.funami.tech/arch/$repo/os/$arch
+Server = https://mirror.funami.tech/arch/$repo/os/$arch
 Server = http://ftp.harukasan.org/archlinux/$repo/os/$arch
 Server = https://ftp.harukasan.org/archlinux/$repo/os/$arch
 Server = http://ftp.lanet.kr/pub/archlinux/$repo/os/$arch
@@ -737,8 +745,6 @@ Server = http://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
 Server = https://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
 Server = http://mirror.math.princeton.edu/pub/archlinux/$repo/os/$arch
 Server = http://mirror.metrocast.net/archlinux/$repo/os/$arch
-Server = http://mirror.kaminski.io/archlinux/$repo/os/$arch
-Server = https://mirror.kaminski.io/archlinux/$repo/os/$arch
 Server = http://iad.mirrors.misaka.one/archlinux/$repo/os/$arch
 Server = https://iad.mirrors.misaka.one/archlinux/$repo/os/$arch
 Server = http://repo.miserver.it.umich.edu/archlinux/$repo/os/$arch
